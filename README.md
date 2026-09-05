@@ -1,2 +1,3 @@
 # demo
-this is my first reepository
+This is my first Repository
+Author-Pankaj Sharma
